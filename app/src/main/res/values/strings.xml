@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Youtube</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subTitleChannel"><i>@Sub Title</i></string>
+    <string name="text_download">Tải xuống</string>
+    <string name="text_create_a_video">Tạo đoạn video</string>
+    <string name="text_like_load">Like Loading...</string>
+    <string name="text_comment">Bình luận</string>
+    <string name="text_comment_load">Comment Loading...</string>
+    <string name="text_write_comment">Viết bình luận...</string>
+    <string name="text_title_load">Title Loading</string>
+</resources>

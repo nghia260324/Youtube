@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgr">#0f0f0f</color>
+    <color name="item_select_category">#f2f2f2</color>
+    <color name="red">#FF0000</color>
+    <color name="d9">#d9d9d9</color>
+    <color name="d6">#D6D6D6</color>
+    <color name="blue">#3F51B5</color>
+    <color name="purple">#734df8</color>
+    <color name="pink">#ff5dca</color>
+    <color name="orange">#fe9c6d</color>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/yourChannel"
+        android:icon="@drawable/ic_user"
+        android:title="Kênh của bạn"/>
+    <item
+        android:id="@+id/incognito"
+        android:icon="@drawable/ic_incognito"
+        android:title="Bật Chế độ ẩn danh"/>
+    <item
+        android:id="@+id/addUser"
+        android:icon="@drawable/ic_add_user"
+        android:title="Thêm tài khoản"/>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_setting"
+            android:title="Cài đặt"/>
+    </group>
+
+
+</menu>
